@@ -69,6 +69,7 @@
 
 .content {
   min-height: 1620px;
+  overflow: hidden;
 }
 
 .content__title {
