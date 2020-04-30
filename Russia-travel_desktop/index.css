@@ -292,24 +292,24 @@ explicitly, e.g.
 }
 
 .additional-item_theme_cherepovets {
-  background-image: url(../../../../images/cherepovets.jpg);
+  background-image: url(./images/cherepovets.jpg);
   background-size: cover;
 }
 
 
 .additional-item_theme_nikola {
-  background-image: url(../../../../images/nikola.jpg);
+  background-image: url(./images/nikola.jpg);
   background-size: cover;
 }
 
 .additional-item_theme_novorossiysk {
-  background-image: url(../../../../images/nvrssk.jpg);
+  background-image: url(./images/nvrssk.jpg);
   background-size: cover;
 }
 
 
 .additional-item_theme_shickan {
-  background-image: url(../../../../images/shickan.jpg);
+  background-image: url(./images/shickan.jpg);
   background-size: cover;
 }
 
@@ -467,7 +467,7 @@ explicitly, e.g.
   height: 594px;
   margin: 102px auto 0;
   color: #FFFDFD;
-  background-image: url(../../images/cover.jpg);
+  background-image: url(./images/cover.jpg);
   background-size: cover;
   overflow: hidden;
 }
@@ -950,7 +950,7 @@ explicitly, e.g.
   left: 30px;
   width: 42px;
   height: 42px;
-  background-image: url(../../images/icon_play.svg);
+  background-image: url(./images/icon_play.svg);
   background-size: cover;
 }
 
@@ -987,12 +987,12 @@ explicitly, e.g.
 }
 
 .video-item_theme_kamchatka {
-  background-image: url(../../../../images/kamchatka.jpg);
+  background-image: url(./images/kamchatka.jpg);
   background-size: contain;
 }
 
 .video-item_theme_observatory {
-  background-image: url(../../../../images/observatory.jpg);
+  background-image: url(./images/observatory.jpg);
   background-size: contain;
 }
 
