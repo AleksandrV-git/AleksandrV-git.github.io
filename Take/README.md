@@ -5,3 +5,6 @@
 
 ## Ссылка на Githab-pages:
 - https://AleksandrV-git.github.io/Take/
+
+## Ссылка на макет:
+- https://yadi.sk/i/b2R2K7dXn9hsKQ
